@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/algoritmi.dir/link.d CMakeFiles/algoritmi.dir/algoritmi.cpp.o -o algoritmi

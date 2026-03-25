@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione2/build/CMakeFiles/memoria.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione2/build/CMakeFiles/algoritmi.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione2/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione2/build/CMakeFiles/rebuild_cache.dir
