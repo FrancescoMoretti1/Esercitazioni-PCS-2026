@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione3/build/CMakeFiles/test_razionali.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione3/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione3/build/CMakeFiles/rebuild_cache.dir
