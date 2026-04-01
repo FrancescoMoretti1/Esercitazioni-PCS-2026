@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_razionali.dir/link.d CMakeFiles/test_razionali.dir/main.cpp.o -o test_razionali
