@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione5/build_release/CMakeFiles/misuresorting.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione5/build_release/CMakeFiles/test_all.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione5/build_release/CMakeFiles/test.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione5/build_release/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Esercitazioni-PCS-2026/esercitazione5/build_release/CMakeFiles/rebuild_cache.dir
