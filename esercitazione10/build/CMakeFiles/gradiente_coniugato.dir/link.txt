@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/gradiente_coniugato.dir/link.d CMakeFiles/gradiente_coniugato.dir/main.cpp.o -o gradiente_coniugato
